@@ -12,8 +12,8 @@ This page contains audio and visual examples from our paper titled, *Audio Summa
 ![Figure 1](./images/PodSumm_fig1.jpg)
 #### Audio Links
 [Original]() |
-[PreSumm (No FT)](./audio/PodSumm_1_no_ft.mp3) |
-[PreSumm (FT + Aug)](./audio/PodSumm_1_ft.mp3)
+[PreSumm (No FT)](https://raw.githubusercontent.com/aneeshvartakavi/podsumm/aneesh_dev/audio/PodSumm_1_no_ft.mp3) |
+[PreSumm (FT + Aug)](https://raw.githubusercontent.com/aneeshvartakavi/podsumm/aneesh_dev/audio/PodSumm_1_no_ft.mp3)
 
 ---
 ### Example 2
