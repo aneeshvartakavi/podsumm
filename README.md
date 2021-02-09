@@ -18,7 +18,7 @@ This page contains audio and visual examples from our paper titled, *Audio Summa
 ---
 ### Example 2
 
-![Figure 2](./images/PodSumm_fig2.jpg)
+![Figure 2](./images/PodSumm_fig2.jpg?raw=true)
 #### Audio Links
 [Original]() |
 [PreSumm (No FT)](./audio/PodSumm_2_no_ft.mp3?raw=true) |
