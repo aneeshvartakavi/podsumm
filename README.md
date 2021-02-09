@@ -9,11 +9,11 @@ This page contains audio and visual examples from our paper titled, *Audio Summa
 ---
 ### Example 1
 
-![Figure 1](./images/PodSumm_fig1.jpg)
+![Figure 1](./images/PodSumm_fig1.jpg?raw=true)
 #### Audio Links
 [Original]() |
-[PreSumm (No FT)](https://raw.githubusercontent.com/aneeshvartakavi/podsumm/aneesh_dev/audio/PodSumm_1_no_ft.mp3) |
-[PreSumm (FT + Aug)](https://raw.githubusercontent.com/aneeshvartakavi/podsumm/aneesh_dev/audio/PodSumm_1_no_ft.mp3)
+[PreSumm (No FT)](./audio/PodSumm_1_no_ft.mp3?raw=true) |
+[PreSumm (FT + Aug)](./audio/PodSumm_1_ft.mp3?raw=true)
 
 ---
 ### Example 2
@@ -21,8 +21,8 @@ This page contains audio and visual examples from our paper titled, *Audio Summa
 ![Figure 2](./images/PodSumm_fig2.jpg)
 #### Audio Links
 [Original]() |
-[PreSumm (No FT)](./audio/PodSumm_2_no_ft.mp3) |
-[PreSumm (FT + Aug)](./audio/PodSumm_2_ft.mp3)
+[PreSumm (No FT)](./audio/PodSumm_2_no_ft.mp3?raw=true) |
+[PreSumm (FT + Aug)](./audio/PodSumm_2_ft.mp3?raw=true)
 
 ---
 Gracenote, the Gracenote logo and logotype are either a registered trademark or a trademark of Gracenote, Inc. in the United States and/or other countries. © 2000-present. Gracenote, Inc. All rights reserved.  
