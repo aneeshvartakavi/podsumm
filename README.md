@@ -9,11 +9,11 @@ This page contains audio and visual examples from our paper titled, *Audio Summa
 ---
 ### Example 1
 
-![Figure 1](https://mturk-video-samples-refined-transitions.s3.amazonaws.com/github_test/PodSumm_fig1.jpg)
+![Figure 1](https://drive.google.com/file/d/1UKXgwQGNfSlUbv_gm34NTbd1TDMwXFpw/view?usp=sharing)
 #### Audio Links
 [Original](https://play.podtrac.com/npr-510310/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/nprpolitics/2020/01/20200130_nprpolitics_20200130_nprpolitics-ca318b72-e2a9-42dd-9b98-70028b39a35b.mp3?awCollectionId=510310&awEpisodeId=801452169&orgId=1&topicId=1014&d=911&p=510310&story=801452169&t=podcast&e=801452169&size=14545583&ft=pod&f=510310) |
 [PreSumm (No FT)](./audio/PodSumm_1_no_ft.mp3?raw=true) |
-[PreSumm (FT + Aug)](https://mturk-video-samples-refined-transitions.s3.amazonaws.com/github_test/PodSumm_1_ft.mp3)
+[PreSumm (FT + Aug)](https://drive.google.com/file/d/1U7lBU7QxDaksKja3H4sONAzzFTKnLopb/view?usp=sharing)
 
 ---
 ### Example 2
