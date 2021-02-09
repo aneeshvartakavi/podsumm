@@ -9,20 +9,20 @@ This page contains audio and visual examples from our paper titled, *Audio Summa
 ---
 ### Example 1
 
-![Figure 1](https://drive.google.com/file/d/1UKXgwQGNfSlUbv_gm34NTbd1TDMwXFpw/view?usp=sharing)
+![Figure 1](./images/PodSumm_fig1.jpg?raw=True)
 #### Audio Links
 [Original](https://play.podtrac.com/npr-510310/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/nprpolitics/2020/01/20200130_nprpolitics_20200130_nprpolitics-ca318b72-e2a9-42dd-9b98-70028b39a35b.mp3?awCollectionId=510310&awEpisodeId=801452169&orgId=1&topicId=1014&d=911&p=510310&story=801452169&t=podcast&e=801452169&size=14545583&ft=pod&f=510310) |
-[PreSumm (No FT)](./audio/PodSumm_1_no_ft.mp3?raw=true) |
+[PreSumm (No FT)](https://drive.google.com/file/d/1tK6sxRImlCVgFHTN5fCAHkzjmno6NXwT/view?usp=sharing) |
 [PreSumm (FT + Aug)](https://drive.google.com/file/d/1U7lBU7QxDaksKja3H4sONAzzFTKnLopb/view?usp=sharing)
 
 ---
 ### Example 2
 
-![Figure 2](./images/PodSumm_fig2.jpg?raw=true)
+![Figure 2](./images/PodSumm_fig2.jpg?raw=True)
 #### Audio Links
-[Original]() |
-[PreSumm (No FT)](./audio/PodSumm_2_no_ft.mp3?raw=true) |
-[PreSumm (FT + Aug)](./audio/PodSumm_2_ft.mp3?raw=true)
+[Original](https://play.podtrac.com/npr-381444908/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/fa/2020/01/20200113_fa_fapodmon_1-a590d6f4-c9da-4031-b692-f2b85aac503f.mp3?awCollectionId=381444908&awEpisodeId=795906807&orgId=1&d=2980&p=381444908&story=795906807&t=podcast&e=795906807&size=47585744&ft=pod&f=381444908) |
+[PreSumm (No FT)](https://drive.google.com/file/d/1w49goH3rBR0uEIORGM9zC1BJGwznAcfB/view?usp=sharing) |
+[PreSumm (FT + Aug)](https://drive.google.com/file/d/1lPCRVotntxr-WeDsnBU2gH1PezPM904z/view?usp=sharing)
 
 ---
 Gracenote, the Gracenote logo and logotype are either a registered trademark or a trademark of Gracenote, Inc. in the United States and/or other countries. © 2000-present. Gracenote, Inc. All rights reserved.  
