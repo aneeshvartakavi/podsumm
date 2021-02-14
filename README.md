@@ -2,7 +2,7 @@
 
 _Aneesh Vartakavi, Amanmeet Garg, Zafar Rafii_
 
-This page contains audio and visual examples from our paper titled, *Audio Summarization for Podcasts*.
+This page contains audio and visual examples from our paper, [Audio Summarization for Podcasts](https://arxiv.org/abs/2009.10315).
 
 
 > We propose a novel system for automatically generating audio summaries for podcasts, allowing listeners to have quick previews of podcast episodes. The proposed system first transcribes the audio from a podcast using automatic speech recognition (ASR), then summarizes the transcript using automatic extractive summarization, and finally returns the audio associated with the text summary. Motivated by a lack of datasets for this task, we created our own by transcribing the audio from various podcasts and summarizing the transcripts using a manual annotation tool. Using these text summaries, we fine-tuned a recent Transformer-based summarization model to specifically handle podcast summaries. Our system achieves ROUGE-(1/2/L) F-scores of 0.63/0.53/0.63, respectively, showing good performance for podcast summarization.
@@ -15,8 +15,8 @@ Note: The original audio in the links below may not correspond to the same text 
 ![Figure 1](./images/PodSumm_fig1.jpg?raw=True)
 #### Audio Links
 [Original](https://play.podtrac.com/npr-510310/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/nprpolitics/2020/01/20200130_nprpolitics_20200130_nprpolitics-ca318b72-e2a9-42dd-9b98-70028b39a35b.mp3) |
-[PreSumm (No FT)](./Audio%20Summaries/table_2_no_ft.mp3) |
-[PreSumm (FT + Aug)](./Audio%20Summaries/table_2_ft.mp3)
+[PreSumm (No FT)](https://drive.google.com/file/d/1tK6sxRImlCVgFHTN5fCAHkzjmno6NXwT/view?usp=sharing) |
+[PreSumm (FT + Aug)](https://drive.google.com/file/d/1U7lBU7QxDaksKja3H4sONAzzFTKnLopb/view?usp=sharing)
 
 ---
 ### Example 2
@@ -24,8 +24,8 @@ Note: The original audio in the links below may not correspond to the same text 
 ![Figure 2](./images/PodSumm_fig2.jpg?raw=True)
 #### Audio Links
 [Original](https://play.podtrac.com/npr-381444908/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/fa/2020/01/20200113_fa_fapodmon_1-a590d6f4-c9da-4031-b692-f2b85aac503f.mp3) |
-[PreSumm (No FT)](./Audio%20Summaries/table_3_no_ft.mp3) |
-[PreSumm (FT + Aug)](./Audio%20Summaries/table_3_ft.mp3)
+[PreSumm (No FT)](https://drive.google.com/file/d/1w49goH3rBR0uEIORGM9zC1BJGwznAcfB/view?usp=sharing) |
+[PreSumm (FT + Aug)](https://drive.google.com/file/d/1lPCRVotntxr-WeDsnBU2gH1PezPM904z/view?usp=sharing)
 
 ---
 ### Example 3
